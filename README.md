@@ -12,18 +12,18 @@ Através dos artigos sugeridos nas [issues](https://github.com/impJS/impJS-seman
 
 ## Como Ajudar?
 
-1 . Procure na seção [issue](https://github.com/impJS/impJS-semanal/issues), a questão aberta para indicação de artigos da semana vigente. Para agilizar o trabalho de compilação do semanal, e elevar a qualidade do mesmo, siga o passo **2**!
+**1** . Procure na seção [issue](https://github.com/impJS/impJS-semanal/issues), a questão aberta para indicação de artigos da semana vigente. Para agilizar o trabalho de compilação do semanal, e elevar a qualidade do mesmo, siga o passo **2**!
 
-2 . Ao postar na *issue* de sugestões, coloque os seguintes campos:
+**2** . Ao postar na *issue* de sugestões, coloque os seguintes campos:
 
-	* **Título**: Título do artigo em questão.
-	* **Descrição**: fale rapidamente sobre do que se trata o artigo. Uma pequena motivação para quem for ler.
-	* **Site (link)**: link do artigo.
-	* **Autor**: nome do autor do artigo.
+* **Título**: Título do artigo em questão.
+* **Descrição**: fale rapidamente sobre do que se trata o artigo. Uma pequena motivação para quem for ler.
+* **Site (link)**: link do artigo.
+* **Autor**: nome do autor do artigo.
 
-3 . Por gentileza, faça uma rápida pesquisa e verifique se o artigo já não foi citado anteriormente.
+**3** . Por gentileza, faça uma rápida pesquisa e verifique se o artigo já não foi citado anteriormente.
 
-4 . **IMPORTANTE**: Links **fora** do *período de validade* serão desconsiderados. Este é um repositório para as novidades da área!
+**4**. **IMPORTANTE**: Links **fora** do *período de validade* serão desconsiderados. Este é um repositório para as novidades da área!
 
 ## Por que ajudar?
 
@@ -31,6 +31,6 @@ Com esse acervo, o acompanhamento das novidades não ficará restrito ao caótic
 
 ## Bkp
 
-A lista com os links ficarão salvas para consulta [neste link]().
+A lista com os links ficarão salvas para consulta [neste link](https://github.com/impJS/impJS-semanal/tree/master/bkp).
 
 ## Obrigado!
