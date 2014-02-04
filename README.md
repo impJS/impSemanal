@@ -1,4 +1,4 @@
-![impJS - Semanal](img/impjs-newsletter-gh.png)
+![impJS - Semanal](img/impjs-semanal-gh.jpg)
 
 <br>
 
@@ -29,8 +29,6 @@ Através dos artigos sugeridos nas [issues](https://github.com/impJS/impJS-seman
 
 Com esse acervo, o acompanhamento das novidades não ficará restrito ao caótico sistema do Facebook, onde infelizmente muitos posts interessantes ficam esquecidos, pois nem todos tem oportunidade de vê-los (e é bom que isso aconteça! =P)
 
-## Bkp
+## Backup
 
 A lista com os links ficarão salvas para consulta [neste link](https://github.com/impJS/impJS-semanal/tree/master/bkp).
-
-## Obrigado!
