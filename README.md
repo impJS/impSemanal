@@ -1,4 +1,4 @@
-![impJS - Semanal](img/impjs-semanal-gh.jpg)
+![impJS - Semanal](img/imp-semanal-gh.jpg)
 
 <br>
 
