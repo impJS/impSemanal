@@ -31,4 +31,4 @@ Com esse acervo, o acompanhamento das novidades não ficará restrito ao caótic
 
 ## Backup
 
-A lista com os links ficarão salvas para consulta [neste link](https://github.com/impJS/impJS-semanal/tree/master/bkp).
+A lista com os links ficarão salvas para consulta [neste link](https://github.com/impJS/impSemanal/issues?page=1&state=closed).
