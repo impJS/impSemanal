@@ -4,7 +4,7 @@
 
 Fique por dentro das novidades do cenário **nacional** do **desenvolvimento web** e claro, do universo **JavaScript ❤**
 
-# Assine o semanal [aqui!](http://eepurl.com/Ng9LL)
+# Assine o semanal [AQUI!](http://eepurl.com/Ng9LL)
 
 ## Como Funciona?
 
